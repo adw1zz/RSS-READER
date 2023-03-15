@@ -12,6 +12,7 @@ dependencies:
   flutter_inappwebview: 
   flutter_spinkit:
   xml:
+  internet_connection_checker:
   
 
 dev_dependencies:

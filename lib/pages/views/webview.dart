@@ -1,5 +1,3 @@
-// ignore_for_file: implementation_imports, depend_on_referenced_packages
-
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 
