@@ -1,3 +1,3 @@
 # rss_reader
 
-A new Flutter project.
+A simple rss-reader app on android.
